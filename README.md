@@ -20,9 +20,7 @@ Chronic kidney disease (CKD) is a major public health problem worldwide. Early d
 9. Update `dvc.yaml`
 10. `app.py`
 
-## How to Run?
-
-### STEPS:
+### Steps to Run
 
 1. Clone the repository
 
