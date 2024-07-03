@@ -1,6 +1,6 @@
 # Kidney-Disease-Classification
 
-This project demonstrates how to use MLflow and DVC for kidney disease classification. It has been deployed to AWS using GitHub Actions.
+This project is on kidney disease classification using MLflow and DVC. It has been deployed to AWS using GitHub Actions.
 
 ## Project Overview
 
@@ -10,7 +10,7 @@ Chronic kidney disease (CKD) is a major public health problem worldwide. Early d
 ## Workflows
 
 1. Update `config.yaml`
-2. Update `secrets.yaml` [Optional]
+2. Update `secrets.yaml`
 3. Update `params.yaml`
 4. Update the entity
 5. Update the configuration manager in `src/config`
